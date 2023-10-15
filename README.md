@@ -25,7 +25,7 @@ I tested this Theme only with Firefox 117+ and MacOS.
 
 ## Customization
 
-You can change you `New Tab` background
+<b>You can change you `New Tab` background</b>
 
 1. Type `about:support` in your adress bar.
 
@@ -36,3 +36,8 @@ You can change you `New Tab` background
 4. Delet current `wallpaper_light.png` and `wallpaper_dark.jpg` files.
 
 5. Place your wallpaper files to `Wallpapers` folder and rename them to `wallpaper_light.jpg` for Light Theme and `wallpaper_dark.jpg` for Dark Theme.
+
+
+<b>You can also use this settings for better visuals</b>
+
+`browser.urlbar.maxRichResults` - 18 or your number [Number of lines at your search results]
