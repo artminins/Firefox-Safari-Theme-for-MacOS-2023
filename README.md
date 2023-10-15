@@ -13,15 +13,12 @@ I tested this Theme only with Firefox 117+ and MacOS.
  	
 2. Search `toolkit.legacyUserProfileCustomizations.stylesheets` and double click to set the value to "true"
 
-3. Type `about:support` in your adress bar.
+3. Download https://github.com/timmeans/Firefox-Safari-Theme-Sentiny-MacOS-2023-/releases/download/v1.0/FirefoxSafariTheme.zip
+    
+4. Type `about:support` in your adress bar.
 
-4. Find `Profile Directory` and click `Open Directory`.
+5. Find `Profile Directory` and click `Open Directory`.
 
-5. Download 
-
-5. Create a folder called `chrome` (without apostrophe).
-
-6. Paste `userChrome.css & window` in "Firefox Safari 15 Adaptive" or "Firefox Safari 15 Regular" folder to chrome folder.
-You can check 'Step 2 - color Themes' to choose.
+6. Paste downloaded `chrome` folder to `Profile Directory`.
 
 7. Restart Firefox.
