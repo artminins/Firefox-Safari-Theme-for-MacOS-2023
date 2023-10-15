@@ -40,4 +40,4 @@ I tested this Theme only with Firefox 117+ and MacOS.
 
 <b>You can also use this settings for better visuals</b>
 
-`browser.urlbar.maxRichResults` - 18 or your number [Number of lines at your search results]
+`browser.urlbar.maxRichResults` - 18 or your number [number of lines at your search results]
