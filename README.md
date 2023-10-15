@@ -2,6 +2,9 @@
 
 I tried to make Firefox to look like Safari as close as I can.
 
+I prefer Firefox, but I really like Safari look.
+So I made this Theme for my personal use, but I decided to share it.
+
 I tested this Theme only with Firefox 117+ and MacOS.
 
 
