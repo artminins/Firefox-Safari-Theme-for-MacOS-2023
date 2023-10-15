@@ -33,7 +33,7 @@ I tested this Theme only with Firefox 117+ and MacOS.
 
 3. Open `Chrome` and then open `Wallpapers` folder.
 
-4. Delet current `wallpaper_light.png` and `wallpaper_dark.jpg` files.
+4. Delete current `wallpaper_light.png` and `wallpaper_dark.jpg` files.
 
 5. Place your wallpaper files to `Wallpapers` folder and rename them to `wallpaper_light.jpg` for Light Theme and `wallpaper_dark.jpg` for Dark Theme.
 
