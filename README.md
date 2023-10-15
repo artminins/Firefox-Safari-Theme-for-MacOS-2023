@@ -1,4 +1,4 @@
-## <p align="center"><b>Firefox Safari Theme by Sentiny for MacOS</b></p>
+## <p align="center"><b>Firefox Safari Theme by Sentiny for MacOS 2023</b></p>
 
 I tried to make Firefox to look like Safari as close as I can.
 
