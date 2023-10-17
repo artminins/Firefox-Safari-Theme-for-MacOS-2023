@@ -40,6 +40,8 @@ I tested this Theme only with Firefox 117+ and MacOS.
 
 5. Place your wallpaper files to `Wallpapers` folder and rename them to `wallpaper_light.jpg` for Light Theme and `wallpaper_dark.jpg` for Dark Theme.
 
+* If you want to remove wallpapers on a `New Tab` just remove files from `Wallpapers` folder.
+
 
 <b>You can also use this settings for better visuals</b>
 
